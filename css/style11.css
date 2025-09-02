@@ -20,19 +20,19 @@ ul,li{
 /* Ex-Fonts start */
 @font-face {
   font-family: mango;
-  src: url(../fonts/Asimovian/Asimovian-Regular.ttf);
+  src: url(fonts/Asimovian/Asimovian-Regular.ttf);
 }
 @font-face {
   font-family: apple;
-  src: url(../fonts/Ubuntu/Ubuntu-BoldItalic.ttf);
+  src: url(fonts/Ubuntu/Ubuntu-BoldItalic.ttf);
 }
 @font-face{
     font-family: lemon;
-    src: url(../fonts/Ubuntu/Ubuntu-LightItalic.ttf);
+    src: url(fonts/Ubuntu/Ubuntu-LightItalic.ttf);
 }
 @font-face{
     font-family: grape;
-    src: url(../fonts/Ubuntu/Ubuntu-MediumItalic.ttf);
+    src: url(fonts/Ubuntu/Ubuntu-MediumItalic.ttf);
 }
 
 /* Ex-Fonts end */
@@ -382,5 +382,6 @@ ul,li{
     padding-left: 44px;
     font-size: 18px;
 }
+
 
 /* Right_side_bar end */
